@@ -1,0 +1,3 @@
+(executables
+ (names included_library_only no_side_effect_submodule side_effect_submodule)
+ (libraries maybe_side_effecting_library))

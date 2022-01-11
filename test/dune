@@ -1,0 +1,5 @@
+(cram
+ (deps
+  ../executables/included_library_only.exe
+  ../executables/no_side_effect_submodule.exe
+  ../executables/side_effect_submodule.exe))

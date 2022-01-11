@@ -1,0 +1,3 @@
+(library
+ (name maybe_side_effecting_library)
+ (libraries included_library))
